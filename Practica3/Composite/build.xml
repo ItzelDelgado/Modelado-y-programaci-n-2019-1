@@ -1,0 +1,54 @@
+<project name="MainClass" default="run" basedir=".">
+	<description>
+		Proyecto que ejemplifica el TDA Persona y su serializacion en archivos de texto
+	</description>
+	<!-- archivos java -->
+	<property name="src" location="src"/>
+	<!-- archivos class -->
+	<property name="build" location="build"/>
+	<!-- documentacion -->
+	<property name="docs" location="docs"/>
+	<!-- salida -->
+	<property name="dist"  location="dist"/>
+
+	<target name="init">
+		<tstamp/>
+		<mkdir dir="${build}"/>
+	</target>
+
+	<target name="compile" depends="init">
+		<javac srcdir="${src}" destdir="${build}"/>
+	</target>
+
+	<target name="run" depends="compile">
+		<java classname="${ant.project.name}" classpath="${build}"/>
+	</target>
+
+	<target name="docs" description="genera la documentacion con javadoc">
+		<javadoc destdir="${docs}"
+				author = "true"
+				version = "true"
+				windowtitle="${ant.project,name}">
+			<fileset dir="${src}" defaultexcludes="yes">
+        <include name="**/*.java"/>
+      </fileset>
+    </javadoc>
+ 	</target>	
+
+	<target name="clean" description="limpia el proyecto">
+		<delete dir="${build}"/>
+		<delete dir="${docs}"/>
+		<delete dir="${dist}"/>
+	</target>
+
+	<target name="dist" depends="run"
+		description="generate el ejecutable para su distribucion" >
+    <mkdir dir="${dist}/lib"/>
+    <jar jarfile="${dist}/lib/${ant.project.name}-${DSTAMP}.jar" basedir="${build}">
+    	<manifest>
+        <attribute name="Main-Class" value="${ant.project.name}"/>
+      </manifest>
+     </jar>
+  </target>
+
+</project>

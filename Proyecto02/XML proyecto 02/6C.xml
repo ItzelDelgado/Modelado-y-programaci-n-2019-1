@@ -1,0 +1,234 @@
+<ListaAlumnos>
+  <Grupo grupoId="6C" profesor="Demian Tons" numAlumnos = "5">
+    <Alumno cuenta="8775" nombre="Ricardo" numLista = "1">
+      <Historial numAños = "6">
+	<Año grado="1" numBim = "5">
+          <Bimestre bimId="1" cnat="7" csoc="8" edfis="10" esp="9" ing="6" mat="7" ></Bimestre>
+	  <Bimestre bimId="2" cnat="6" csoc="6" edfis="10" esp="9" ing="6" mat="8" ></Bimestre>
+          <Bimestre bimId="4" cnat="8" csoc="7" edfis="9" esp="9" ing="7" mat="10" ></Bimestre>
+	  <Bimestre bimId="4" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="9" ></Bimestre>
+	  <Bimestre bimId="5" cnat="7" csoc="9" edfis="10" esp="9" ing="7" mat="8" ></Bimestre>
+	</Año>
+	<Año grado="2" numBim = "5" >
+          <Bimestre bimId="1" cnat="7" csoc="8" edfis="10" esp="6" ing="6" mat="9" ></Bimestre>
+	  <Bimestre bimId="2" cnat="8" csoc="6" edfis="10" esp="9" ing="6" mat="7" ></Bimestre>
+          <Bimestre bimId="3" cnat="7" csoc="8" edfis="10" esp="8" ing="9" mat="8" ></Bimestre>
+	  <Bimestre bimId="4" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="9" ></Bimestre>
+	  <Bimestre bimId="5" cnat="8" csoc="9" edfis="10" esp="9" ing="8" mat="9" ></Bimestre>
+	</Año>
+	<Año grado="3" numBim = "5" >
+          <Bimestre bimId="1" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="2" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+          <Bimestre bimId="3" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="4" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="5" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	</Año>
+	<Año grado="4" numBim = "5">
+          <Bimestre bimId="1" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="2" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+          <Bimestre bimId="3" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="4" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="5" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	</Año>
+	<Año grado="5" numBim = "5">
+          <Bimestre bimId="1" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="2" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+          <Bimestre bimId="3" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="4" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="5" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	</Año>
+	<Año grado="6" numBim = "4">
+          <Bimestre bimId="1" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="2" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+          <Bimestre bimId="3" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="4" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="0" cnat="0" csoc="0" edfis="0" esp="0" ing="0" mat="0" ></Bimestre>
+	</Año>
+      </Historial>
+    </Alumno>
+    <Alumno cuenta="7893" nombre="Demian" numLista = "2">
+      <Historial numAños = "6">
+	<Año grado="1" numBim = "5">
+          <Bimestre bimId="1" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="2" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+          <Bimestre bimId="4" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="4" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="5" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	</Año>
+	<Año grado="2" numBim = "5">
+          <Bimestre bimId="1" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="2" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+          <Bimestre bimId="3" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="4" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="5" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	</Año>
+	<Año grado="3" numBim = "5">
+          <Bimestre bimId="1" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="2" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+          <Bimestre bimId="3" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="4" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="5" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	</Año>
+	<Año grado="4" numBim = "5">
+          <Bimestre bimId="1" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="2" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+          <Bimestre bimId="3" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="4" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="5" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	</Año>
+	<Año grado="5" numBim = "5">
+          <Bimestre bimId="1" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="2" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+          <Bimestre bimId="3" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="4" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="5" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	</Año>
+	<Año grado="6" numBim = "4">
+          <Bimestre bimId="1" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="2" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+          <Bimestre bimId="3" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="4" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="0" cnat="0" csoc="0" edfis="0" esp="0" ing="0" mat="0" ></Bimestre>
+	</Año>
+      </Historial>
+    </Alumno>
+     <Alumno cuenta="7892" nombre="Alan" numLista = "3">
+      <Historial numAños = "6">
+	<Año grado="1" numBim = "5">
+          <Bimestre bimId="1" cnat="7" csoc="8" edfis="10" esp="9" ing="6" mat="7" ></Bimestre>
+	  <Bimestre bimId="2" cnat="6" csoc="6" edfis="10" esp="9" ing="6" mat="8" ></Bimestre>
+          <Bimestre bimId="4" cnat="8" csoc="7" edfis="9" esp="9" ing="7" mat="10" ></Bimestre>
+	  <Bimestre bimId="4" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="9" ></Bimestre>
+	  <Bimestre bimId="5" cnat="7" csoc="9" edfis="10" esp="9" ing="7" mat="8" ></Bimestre>
+	</Año>
+	<Año grado="2" numBim = "5" >
+          <Bimestre bimId="1" cnat="7" csoc="8" edfis="10" esp="6" ing="6" mat="9" ></Bimestre>
+	  <Bimestre bimId="2" cnat="8" csoc="6" edfis="10" esp="9" ing="6" mat="7" ></Bimestre>
+          <Bimestre bimId="3" cnat="7" csoc="8" edfis="10" esp="8" ing="9" mat="8" ></Bimestre>
+	  <Bimestre bimId="4" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="9" ></Bimestre>
+	  <Bimestre bimId="5" cnat="8" csoc="9" edfis="10" esp="9" ing="8" mat="9" ></Bimestre>
+	</Año>
+	<Año grado="3" numBim = "5" >
+          <Bimestre bimId="1" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="2" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+          <Bimestre bimId="3" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="4" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="5" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	</Año>
+	<Año grado="4" numBim = "5">
+          <Bimestre bimId="1" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="2" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+          <Bimestre bimId="3" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="4" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="5" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	</Año>
+	<Año grado="5" numBim = "5">
+          <Bimestre bimId="1" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="2" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+          <Bimestre bimId="3" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="4" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="5" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	</Año>
+	<Año grado="6" numBim = "4">
+          <Bimestre bimId="1" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="2" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+          <Bimestre bimId="3" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="4" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="0" cnat="0" csoc="0" edfis="0" esp="0" ing="0" mat="0" ></Bimestre>
+	</Año>
+      </Historial>
+     </Alumno>
+      <Alumno cuenta="7895" nombre="Juan" numLista = "4">
+      <Historial numAños = "6">
+	<Año grado="1" numBim = "5">
+          <Bimestre bimId="1" cnat="7" csoc="8" edfis="10" esp="9" ing="6" mat="7" ></Bimestre>
+	  <Bimestre bimId="2" cnat="6" csoc="6" edfis="10" esp="9" ing="6" mat="8" ></Bimestre>
+          <Bimestre bimId="4" cnat="8" csoc="7" edfis="9" esp="9" ing="7" mat="10" ></Bimestre>
+	  <Bimestre bimId="4" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="9" ></Bimestre>
+	  <Bimestre bimId="5" cnat="7" csoc="9" edfis="10" esp="9" ing="7" mat="8" ></Bimestre>
+	</Año>
+	<Año grado="2" numBim = "5" >
+          <Bimestre bimId="1" cnat="7" csoc="8" edfis="10" esp="6" ing="6" mat="9" ></Bimestre>
+	  <Bimestre bimId="2" cnat="8" csoc="6" edfis="10" esp="9" ing="6" mat="7" ></Bimestre>
+          <Bimestre bimId="3" cnat="7" csoc="8" edfis="10" esp="8" ing="9" mat="8" ></Bimestre>
+	  <Bimestre bimId="4" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="9" ></Bimestre>
+	  <Bimestre bimId="5" cnat="8" csoc="9" edfis="10" esp="9" ing="8" mat="9" ></Bimestre>
+	</Año>
+	<Año grado="3" numBim = "5" >
+          <Bimestre bimId="1" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="2" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+          <Bimestre bimId="3" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="4" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="5" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	</Año>
+	<Año grado="4" numBim = "5">
+          <Bimestre bimId="1" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="2" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+          <Bimestre bimId="3" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="4" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="5" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	</Año>
+	<Año grado="5" numBim = "5">
+          <Bimestre bimId="1" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="2" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+          <Bimestre bimId="3" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="4" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="5" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	</Año>
+	<Año grado="6" numBim = "4">
+          <Bimestre bimId="1" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="2" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+          <Bimestre bimId="3" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="4" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="0" cnat="0" csoc="0" edfis="0" esp="0" ing="0" mat="0" ></Bimestre>
+	</Año>
+      </Historial>
+      </Alumno>
+       <Alumno cuenta="7422" nombre="Antonio" numLista = "5">
+      <Historial numAños = "6">
+	<Año grado="1" numBim = "5">
+          <Bimestre bimId="1" cnat="7" csoc="8" edfis="10" esp="9" ing="6" mat="7" ></Bimestre>
+	  <Bimestre bimId="2" cnat="6" csoc="6" edfis="10" esp="9" ing="6" mat="8" ></Bimestre>
+          <Bimestre bimId="4" cnat="8" csoc="7" edfis="9" esp="9" ing="7" mat="10" ></Bimestre>
+	  <Bimestre bimId="4" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="9" ></Bimestre>
+	  <Bimestre bimId="5" cnat="7" csoc="9" edfis="10" esp="9" ing="7" mat="8" ></Bimestre>
+	</Año>
+	<Año grado="2" numBim = "5" >
+          <Bimestre bimId="1" cnat="7" csoc="8" edfis="10" esp="6" ing="6" mat="9" ></Bimestre>
+	  <Bimestre bimId="2" cnat="8" csoc="6" edfis="10" esp="9" ing="6" mat="7" ></Bimestre>
+          <Bimestre bimId="3" cnat="7" csoc="8" edfis="10" esp="8" ing="9" mat="8" ></Bimestre>
+	  <Bimestre bimId="4" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="9" ></Bimestre>
+	  <Bimestre bimId="5" cnat="8" csoc="9" edfis="10" esp="9" ing="8" mat="9" ></Bimestre>
+	</Año>
+	<Año grado="3" numBim = "5" >
+          <Bimestre bimId="1" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="2" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+          <Bimestre bimId="3" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="4" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="5" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	</Año>
+	<Año grado="4" numBim = "5">
+          <Bimestre bimId="1" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="2" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+          <Bimestre bimId="3" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="4" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="5" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	</Año>
+	<Año grado="5" numBim = "5">
+          <Bimestre bimId="1" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="2" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+          <Bimestre bimId="3" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="4" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="5" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	</Año>
+	<Año grado="6" numBim = "4">
+          <Bimestre bimId="1" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="2" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+          <Bimestre bimId="3" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="4" cnat="7" csoc="8" edfis="10" esp="9" ing="8" mat="7" ></Bimestre>
+	  <Bimestre bimId="0" cnat="0" csoc="0" edfis="0" esp="0" ing="0" mat="0" ></Bimestre>
+	</Año>
+      </Historial>
+    </Alumno>
+  </Grupo>
+</ListaAlumnos>

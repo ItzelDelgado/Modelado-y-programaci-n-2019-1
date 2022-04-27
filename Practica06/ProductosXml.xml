@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><productos>
+
+<producto id="1"><articulo>mantequilla</articulo><precio>13.4</precio></producto>
+
+<producto id="3"><articulo>huevos</articulo><precio>21.22</precio></producto>
+
+<producto id="5"><articulo>miel</articulo><precio>50.21</precio></producto>
+<producto id="6"><articulo>cajeta</articulo><precio>30.33</precio></producto>
+<producto id="7"><articulo>tortillas</articulo><precio>14.50</precio></producto>
+<producto id="8"><articulo>agua</articulo><precio>10.0</precio></producto>
+<producto id="2"><articulo>leche</articulo><precio>18.5</precio></producto><producto id="4"><articulo>cafe</articulo><precio>80.4</precio></producto><producto id="14"><articulo>desodorante</articulo><precio>30.55</precio></producto><producto id="10"><articulo>cepillo</articulo><precio>25.5</precio></producto></productos>

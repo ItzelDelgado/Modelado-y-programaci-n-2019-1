@@ -1,0 +1,14 @@
+Proyecto 1
+Modelado y Programación
+Delgado Díaz Itzel Azucena
+12 de Octubre de 2018
+
+TacoMachine
+Implementación en Java
+
+
+Compilación
+1. Se requiere ant
+
+Ejecución del programa
+1. La clase principal: TacoMachine
